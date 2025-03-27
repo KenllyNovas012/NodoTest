@@ -1,0 +1,16 @@
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\bin\Debug\net5.0\Algoritmo_Raft.exe
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\bin\Debug\net5.0\Algoritmo_Raft.deps.json
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\bin\Debug\net5.0\Algoritmo_Raft.runtimeconfig.json
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\bin\Debug\net5.0\Algoritmo_Raft.runtimeconfig.dev.json
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\bin\Debug\net5.0\Algoritmo_Raft.dll
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\bin\Debug\net5.0\ref\Algoritmo_Raft.dll
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\bin\Debug\net5.0\Algoritmo_Raft.pdb
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\Algoritmo_Raft.csproj.AssemblyReference.cache
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\Algoritmo_Raft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\Algoritmo_Raft.AssemblyInfoInputs.cache
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\Algoritmo_Raft.AssemblyInfo.cs
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\Algoritmo_Raft.csproj.CoreCompileInputs.cache
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\Algoritmo_Raft.dll
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\ref\Algoritmo_Raft.dll
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\Algoritmo_Raft.pdb
+C:\Users\Kenlly Novas\source\repos\Algoritmo_Raft\Algoritmo_Raft\obj\Debug\net5.0\Algoritmo_Raft.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo_Raft", "Algoritmo_Raft\Algoritmo_Raft.csproj", "{E94909EE-7436-42CD-8A16-921FB53A9EC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeTests", "NodeTests\NodeTests.csproj", "{4D243A0A-34B7-4F10-B8C0-25BBC73443A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94909EE-7436-42CD-8A16-921FB53A9EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94909EE-7436-42CD-8A16-921FB53A9EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94909EE-7436-42CD-8A16-921FB53A9EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94909EE-7436-42CD-8A16-921FB53A9EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D243A0A-34B7-4F10-B8C0-25BBC73443A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D243A0A-34B7-4F10-B8C0-25BBC73443A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D243A0A-34B7-4F10-B8C0-25BBC73443A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D243A0A-34B7-4F10-B8C0-25BBC73443A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CEC345-8105-4AF1-A636-0914ACFB6D6D}
+	EndGlobalSection
+EndGlobal
