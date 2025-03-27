@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jc8GGkeoSqMQtWyqlv+vQ2hHsZ/E/lhubtO/g9HYoF65xn8YYrrHlCND+vsSJsv3CUAes7Xts7pn6Wr8ieUcig==",
+  "dgSpecHash": "L0TbJa1FQ3RD/wPUQqUe1Im85S97EokynJMsjjy/k7zlq3pNdpNrWqNbzg33P0OYh/MNFqhOEN3u6RipVMRCfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenlly Novas\\source\\repos\\Algoritmo_Raft\\NodeTests\\NodeTests.csproj",
+  "projectFilePath": "C:\\Users\\Kenlly Novas\\OneDrive - jeturing\\Desktop\\NodoTest\\NodeTests\\NodeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenlly Novas\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Kenlly Novas\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

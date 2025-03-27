@@ -42,7 +42,7 @@ namespace NodeTests
 
             node.ReceiveMessage(message);
 
-            Assert.IsTrue(node.GetLogs().Any(log => log.Contains("Received message from Node 2: Hello")));
+            Assert.IsTrue(node.GetLogs().Any(log => log.Contains("Mensaje recibido del Nodo 2: Hola")));
         }
 
         [TestMethod]
@@ -57,8 +57,8 @@ namespace NodeTests
 
             node1.SendMessage(2, "Hi there!");
 
-            Assert.IsTrue(node1.GetLogs().Any(log => log.Contains("Sent message to Node 2: Hi there!")));
-            Assert.IsTrue(node2.GetLogs().Any(log => log.Contains("Received message from Node 1: Hi there!")));
+            Assert.IsTrue(node1.GetLogs().Any(log => log.Contains("Mensaje enviado al Nodo 2: ¡Hola!")));
+            Assert.IsTrue(node2.GetLogs().Any(log => log.Contains("Mensaje recibido del Nodo 1: ¡Hola!")));
         }
 
         [TestMethod]

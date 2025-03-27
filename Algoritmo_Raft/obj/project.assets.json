@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenlly Novas\\source\\repos\\Algoritmo_Raft\\Algoritmo_Raft\\Algoritmo_Raft.csproj",
+      "projectUniqueName": "C:\\Users\\Kenlly Novas\\OneDrive - jeturing\\Desktop\\NodoTest\\Algoritmo_Raft\\Algoritmo_Raft.csproj",
       "projectName": "Algoritmo_Raft",
-      "projectPath": "C:\\Users\\Kenlly Novas\\source\\repos\\Algoritmo_Raft\\Algoritmo_Raft\\Algoritmo_Raft.csproj",
+      "projectPath": "C:\\Users\\Kenlly Novas\\OneDrive - jeturing\\Desktop\\NodoTest\\Algoritmo_Raft\\Algoritmo_Raft.csproj",
       "packagesPath": "C:\\Users\\Kenlly Novas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenlly Novas\\source\\repos\\Algoritmo_Raft\\Algoritmo_Raft\\obj\\",
+      "outputPath": "C:\\Users\\Kenlly Novas\\OneDrive - jeturing\\Desktop\\NodoTest\\Algoritmo_Raft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
